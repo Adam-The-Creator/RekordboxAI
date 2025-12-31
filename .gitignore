@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.cache
+*.pdb
+*.obj
+*.pdb
+*.exe
+*.dll
+*.vs/
+_TestResults/
+[Tt]est[Rr]esult*/
+
+# Visual Studio Code
+.vscode/
+.history/
